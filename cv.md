@@ -1,5 +1,5 @@
 ## rsschool-cv
-# TOKAREV OLEG
+# OLEG TOKAREV 
 # My Contact Info
 * **Address:** Minsk, Belarus
 * **E-mail:** tokarev-oleg2004@mail.ru
@@ -7,7 +7,7 @@
 * **Telegram:** cloveki
 * **Discord:** Grom#0935
 # About me
-###### I’m a second-year student of BSU. And last summer i understood, that i want something new in my life. That's why i'm here.
+##### I’m a second-year student of BSU. And last summer i understood, that i want something new in my life. That's why i'm here.
 # Skills
 * HTML
 * CSS 
