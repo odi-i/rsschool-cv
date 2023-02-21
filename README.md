@@ -1,1 +1,1 @@
-# https://grom0330.github.io/rsschool-cv/
+# https://grom0330.github.io/rsschool-cv/cv
