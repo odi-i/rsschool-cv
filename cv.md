@@ -12,11 +12,12 @@
 * HTML
 * CSS 
 * JavaScript 
-* React JS (elementary level knowledge)
+* React JS 
 * Version control: Git (remote service GitHub).
 * C++ (elementary level knowledge)
-* Windows OS, Linux (Ubuntu)
+* MacOs, Windows OS
 * Figma(for web development)
+* Work with: NodeJs, TypeScript, MongoDB, Redux, Zustand, Tailwind
 # Code examples
 ```
 class Logger {
@@ -34,7 +35,7 @@ class Logger {
 }
 ``` 
 # Education
-* Belarusian State University
+* Belarusian State University, in progress
   + Mechanics and Mathematics faculty
 # Languages
 * Russian (native)
