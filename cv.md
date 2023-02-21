@@ -35,7 +35,7 @@ class Logger {
 }
 ``` 
 # Education
-* Belarusian State University
+* Belarusian State University, in progress
   + Mechanics and Mathematics faculty
 # Languages
 * Russian (native)
