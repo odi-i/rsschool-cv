@@ -18,26 +18,14 @@
 * MacOs, Windows OS
 * Figma(for web development)
 * Work with: NodeJs, TypeScript, MongoDB, Redux, Zustand, Tailwind
-# Code examples
-```
-class Logger {
-
-    log(...args) {
-        let str = " ";
-
-        for (let arg of args) {
-            str += " ";
-            str += arg;
-        }
-        
-        console.log(str);
-    }
-}
-``` 
+# Projects
+* Rstype
+#### https://achimenes-freeman.github.io/rs-clone/
+* Online-store
+#### https://store-pavelgorbach.vercel.app
 # Education
 * Belarusian State University, in progress
   + Mechanics and Mathematics faculty
 # Languages
 * Russian (native)
 * English (B1)
-* Czech (A2)
